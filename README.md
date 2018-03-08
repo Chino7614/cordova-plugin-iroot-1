@@ -1,5 +1,7 @@
 ## Cordova Jailbreak/Root Detection Plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/WuglyakBolgoink/cordova-plugin-iroot.svg)](https://greenkeeper.io/)
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/WuglyakBolgoink/cordova-plugin-iroot/master/LICENSE)
 [![Android](https://img.shields.io/badge/android-success-green.svg)](https://shields.io)
 [![iOS](https://img.shields.io/badge/iOS-success-green.svg)](https://shields.io)
